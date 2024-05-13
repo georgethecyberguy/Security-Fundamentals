@@ -111,3 +111,39 @@ Endpoint controls provide insight into real-time actions on assets such as serve
 -  514 UDP Syslog information that gets sent to the SIEM
 
 -  3389 RDP Microsoft protocol to connect to other hosts
+
+  # <span style="font-size: 26px;">Risk Assesments</span>
+
+  - Identify Threats
+
+  - Identify those affected
+
+  - Evaluate the risks by severity and likelihood
+
+  - Establish controls to prevent risks
+
+  - Review and Assess
+
+  - Risk Mitigation: taking methods to actively reduce risk, ex patches, firewalls, policy
+
+  - Risk Acceptance: when cost of controls outweigh cost of risk so the company goes forward
+
+  - Risk Avoidance: acting in a way to completely dodge risk, completely eliminate possibilities
+
+  - Examples of Security Policies
+    
+  -   Acceptable Use (AUP)
+    -  what users can and cannot do on the company assets
+  -   Service Level Agreement (SLA)
+    -   commitment expectations between both parties
+  -   Bring Your Own Device (BYOD)
+    -   usage of personal devices on company network
+  -   Memorandum of Understanding (MoU)
+    -   similar to SLA but not legally binding
+
+- Standard Operating Procedure
+  - Set of instructions for routine tasks
+
+- Compliance
+  - Frameworks that require organizations to maintain a minimum level of security and business operations
+  - PCI DSS (Credit Card), GDPR (Privacy for EU Citizens), ISO 270001 (Information Security Controls), HIPAA (Health Information)
